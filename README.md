@@ -19,7 +19,7 @@
 - [JavaScript certificate]()
 - [jlord patchwork](https://github.com/maryamfaghani/PNU_3991_AR/blob/main/jlord.PNG)
 - [Written submission](https://github.com/maryamfaghani/Written-submission)
-- [Oral presentation]()
+- [Oral presentation](https://github.com/maryamfaghani/Oral-presentation)
 --------------
 ## روز و ساعت ارائه دروس
 
