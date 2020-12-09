@@ -9,20 +9,17 @@
 
 
 
-### فاطمه قاسمی نیاسر
+### مریم فغانی
  
 ---
-- [Github](https://github.com/fatemehghasemiii)
--  [PNU_3991_AR](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/README.md)
-- [حساب گیت هاب](https://github.com/fatemehghasemiii)
-
-- [رزومه](http://fatemehghasemiii.github.io)
-
-- [SOP](http://fatemehghasemiii.github.io/sop/)
-- [JavaScript certificate](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/js.jpg)
-- [jlord patchwork](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/jlord.PNG)
-- [Written submission](https://github.com/fatemehghasemiii/Written-submission)
-- [Oral presentation](https://github.com/fatemehghasemiii/Oral-presentation)
+- [Github](https://github.com/maryamfaghani)
+-  [PNU_3991_AR](https://github.com/maryamfaghani/PNU_3991_AR)
+- [رزومه](https://github.com/maryamfaghani/maryamfaghani.github.io)
+- [SOP](https://github.com/maryamfaghani/SOP)
+- [JavaScript certificate]()
+- [jlord patchwork]()
+- [Written submission](https://github.com/maryamfaghani/Written-submission)
+- [Oral presentation]()
 ------------------
 ## گروه ها
 - [فاطمه قاسمی نیاسر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/51_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%82%D8%A7%D8%B3%D9%85%D9%8A%20%D9%86%D9%8A%D8%A7%D8%B3%D8%B1)
