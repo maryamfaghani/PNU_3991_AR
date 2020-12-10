@@ -11,15 +11,17 @@
 
 ### مریم فغانی
  
----
+--------------
 - [Github](https://github.com/maryamfaghani)
 -  [PNU_3991_AR](https://github.com/maryamfaghani/PNU_3991_AR)
 - [رزومه](https://github.com/maryamfaghani/maryamfaghani.github.io)
 - [SOP](https://github.com/maryamfaghani/SOP)
 - [JavaScript certificate](https://github.com/maryamfaghani/PNU_3991_AR/blob/main/js.png)
 - [jlord patchwork](https://github.com/maryamfaghani/PNU_3991_AR/blob/main/jlord.PNG)
-- [Written submission](https://github.com/maryamfaghani/Written-submission)
-- [Oral presentation](https://github.com/maryamfaghani/Oral-presentation)
+--------------
+## دروس کارشناسی
+[1322010_02 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/43_%D9%85%D8%B1%D9%8A%D9%85%20%D9%81%D8%BA%D8%A7%D9%86%D9%8A)
+
 --------------
 ## روز و ساعت ارائه دروس
 
