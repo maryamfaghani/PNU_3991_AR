@@ -9,7 +9,7 @@
 
 
 
-### مریم فغانی
+# مریم فغانی
  
 --------------
 - [Github](https://github.com/maryamfaghani)
@@ -18,9 +18,24 @@
 - [SOP](https://maryamfaghani.github.io/SOP/)
 - [JavaScript certificate](https://github.com/maryamfaghani/PNU_3991_AR/blob/main/js.png)
 - [jlord patchwork](https://github.com/maryamfaghani/PNU_3991_AR/blob/main/jlord.PNG)
+
+---------------------
+
+
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/maryamfaghani/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
+
+## بخش دروس کارشناسی
+- [خلاصه ارزیابی درس_روش پژوهش وارائه](https://github.com/maryamfaghani/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
+
+
+
 --------------
 ## دروس کارشناسی
-[1322010_02 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/43_%D9%85%D8%B1%D9%8A%D9%85%20%D9%81%D8%BA%D8%A7%D9%86%D9%8A)
+[1322010_02 روش پژوهش و ارائه](https://github.com/maryamfaghani/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/XX_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 
 --------------
 ## روز و ساعت ارائه دروس
